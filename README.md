@@ -6,3 +6,5 @@ Basta rodar onfgh seguinte comando no seu terminal:
 ```sh
 git clone https://github.com/Marcelo-Diament/modulo-git.git
 ```
+
+... to be continued...
